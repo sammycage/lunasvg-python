@@ -1,0 +1,7 @@
+[wrap-git]
+url = https://github.com/sammycage/lunasvg.git
+revision = head
+depth = 1
+
+[provide]
+lunasvg = lunasvg_dep
